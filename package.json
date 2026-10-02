@@ -1,0 +1,15 @@
+{
+  "name": "dice-probability-tools",
+  "version": "0.1.0",
+  "description": "Exact dice probability: NdX, modifiers, advantage, keep/drop, DC checks. Zero dependencies.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "bin": { "dice-prob": "bin/dice-prob.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "keywords": ["dice", "probability", "dnd", "tabletop", "rpg", "d20"],
+  "homepage": "https://dnddiceroller.com",
+  "license": "MIT",
+  "author": "Iron Code Studios"
+}
