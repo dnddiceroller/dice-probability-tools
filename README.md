@@ -2,6 +2,9 @@
 
 From the team behind [dnddiceroller.com](https://dnddiceroller.com) · [more from us](https://github.com/dnddiceroller)
 
+
+<img width="1471" height="862" alt="Screenshot 2026-10-03 at 1 16 42 pm" src="https://github.com/user-attachments/assets/f95c328b-f481-411f-bb50-0751bb7e81f0" />
+
 Exact odds for tabletop dice. No simulation, no sampling, no rounding until the last step: every count is a whole number of ways out of every possible roll.
 
 - `NdX` and flat modifiers: `8d6`, `1d20+5`, `1d8+1d6+3`, `1d20-1d4`
